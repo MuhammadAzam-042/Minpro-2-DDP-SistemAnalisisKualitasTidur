@@ -8,7 +8,7 @@ Kelas: B
 ## Sistem Analisis Kualitas Tidur
 
 ### memanggil library
-saya menggunakan 2 library yaitu prettytable & pwinput.
+menggunakan 2 library yaitu prettytable & pwinput.
 
 <img width="466" height="56" alt="Screenshot 2026-10-06 215648" src="https://github.com/user-attachments/assets/9a1739a9-efb9-4345-b2d9-c7a234ef1c8f" />
 
