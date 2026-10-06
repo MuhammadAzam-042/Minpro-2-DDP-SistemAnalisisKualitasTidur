@@ -92,14 +92,59 @@ di function ini, hasil dari rata-rata data tidur akan di kategorikan. mulai dari
 
 <img width="1080" height="114" alt="Screenshot 2026-10-06 223730" src="https://github.com/user-attachments/assets/3ee743eb-93e6-488a-b0a6-0ee6c2c04521" />
 
-
-
-
-
-
-
 ## Flowchart Sistem Analisis Kualitas Tidur
 
+### memasukan username & password. kemudian menginput data tidur selama seminggu
+
+<img width="836" height="799" alt="Screenshot 2026-10-06 225751" src="https://github.com/user-attachments/assets/8f98f9c3-489a-4602-b16b-cf3969740e96" />
+
+### menentukan role user
+
+<img width="410" height="178" alt="Screenshot 2026-10-06 225817" src="https://github.com/user-attachments/assets/b1beaaa6-3f13-411c-85a6-029c529c42cd" />
+
+### role "premium" bisa melihat, menambah, mengubah, dan menghapus data jam tidur selama seminggu.
+
+<img width="1338" height="859" alt="Screenshot 2026-10-06 225940" src="https://github.com/user-attachments/assets/7b549524-5f37-4e19-95c4-4245d4f9a30f" />
+
+### role "biasa" hanya bisa melihat data jam tidur selama seminggu.
+
+<img width="470" height="283" alt="Screenshot 2026-10-06 225956" src="https://github.com/user-attachments/assets/932c17f0-778e-443b-ac31-6fe285c383d2" />
+
+### data jam tidur selama seminggu di rata-ratakan.
+
+<img width="263" height="188" alt="Screenshot 2026-10-06 230010" src="https://github.com/user-attachments/assets/5e1135c5-aec1-45fc-b24c-bbdad3f34e6e" />
+
+### rata-rata dari jam tidur kemudian dianalisis dan dikategorikan mulai dari sangat buruk, kurang cukup, cukup, dan sangat baik.
+<img width="1026" height="273" alt="Screenshot 2026-10-06 230027" src="https://github.com/user-attachments/assets/e80bd86d-0dd8-408b-a868-77607a885555" />
+
+### user bisa melanjutkan atau mengakhiri program.
+<img width="222" height="287" alt="Screenshot 2026-10-06 231223" src="https://github.com/user-attachments/assets/c3a01815-d686-4883-b364-a82f3b9e3dfa" />
+
+## Output program Sistem Analisis Kualitas Tidur
+
+### memasukan username & password.
+<img width="478" height="78" alt="Screenshot 2026-10-06 232403" src="https://github.com/user-attachments/assets/dac65822-a247-42b6-b130-45f6eabccc87" />
+
+### memasukan jam tidur selama seminggu.
+<img width="1121" height="234" alt="Screenshot 2026-10-06 231534" src="https://github.com/user-attachments/assets/b96655b9-fb05-4b7f-a1ba-1fe3a9705ac3" />
+
+### karena role user "premium", user bisa melihat, menambah, mengubah, dan menghapus data jam tidur selama seminggu. disini, memilih nomor 1 untuk melihat data jam tidur selama seminggu.
+<img width="617" height="467" alt="Screenshot 2026-10-06 231545" src="https://github.com/user-attachments/assets/e618be01-92ce-4f68-a621-5fee3db1142d" />
+
+### memilih nomor 2 untuk menambahkan data jam tidur. karena di hari sabtu dan minggu kosong, maka bisa ditambahkan.
+<img width="832" height="302" alt="Screenshot 2026-10-06 231556" src="https://github.com/user-attachments/assets/e4b123c9-372c-4c49-91c8-3176dae3c769" />
+
+### memilih nomor 2 lagi untuk menambahkan data jam tidur. tetapi semua hari sudah terisi, maka tidak bisa ditambahkan lagi.
+<img width="761" height="265" alt="Screenshot 2026-10-06 231606" src="https://github.com/user-attachments/assets/c3d516e6-5646-4a2a-a58c-9588d05a7289" />
+
+### memilih nomor 3 untuk mengubah data jam tidur. dipilih hari kamis, kemudian mengubah yang awalnya 9 jam menjadi 5 jam
+<img width="715" height="596" alt="Screenshot 2026-10-06 231623" src="https://github.com/user-attachments/assets/1000df71-53cd-4aef-90f2-afdb5b046ee8" />
+
+### memilih nomor 4 untuk menghapus data jam tidur. dipilih hari senin, maka data jam tidur menjadi kosong.
+<img width="677" height="588" alt="Screenshot 2026-10-06 231633" src="https://github.com/user-attachments/assets/addbd711-4fc6-4e65-9052-c327fc273258" />
+
+### memilih nomor 5 untuk menganalisis data jam tidur. kemudian mengakhiri program.
+<img width="1380" height="343" alt="Screenshot 2026-10-06 231644" src="https://github.com/user-attachments/assets/9595d380-0c22-458a-ad7c-3ab8562461cd" />
 
 
 
